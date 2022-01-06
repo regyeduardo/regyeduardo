@@ -6,7 +6,7 @@
 
 - 💬 Me pergunte sobre **python, javascript**
 
-- 📫 Contate-me **regyeduardo@gmai.com**
+- 📫 Contate-me **regyeduardo@gmail.com**
 
 - 📄 Saiba minhas experiências [https://linkedin.com/in/regy-niles](https://linkedin.com/in/regy-niles)
 
