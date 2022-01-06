@@ -12,7 +12,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=regyeduardo&show_icons=true&locale=pt-br&layout=compact&theme=merko&langs_count=6" alt="regyeduardo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=regyeduardo&show_icons=true&theme=merko&locale=pt-br" alt="regyeduardo" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=regyeduardo&show_icons=true&theme=merko&locale=pt-br" alt="regyeduardo" /></p>
 
 <h3 align="left">Linguagens de Programaçâo:</h3>
 <p>
