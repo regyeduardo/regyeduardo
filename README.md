@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regyeduardo&show_icons=true&theme=merko&locale=pt-br" alt="regyeduardo" />
 </div>
 
-<h3 align="left">Linguagens de Programaçâo:</h3>
+<h3 align="left">Linguagens de Programação:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -63,7 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" height="40"/>
 </p>
 
-<h3 align="left">Softwares, Ferramentas and etc:</h3>
+<h3 align="left">Softwares, Ferramentas e etc:</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://seeklogo.com/images/P/postman-logo-F43375A2EB-seeklogo.com.png" width="40" height="40"/>
