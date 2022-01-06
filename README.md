@@ -11,9 +11,9 @@
 - 📄 Saiba minhas experiências [https://linkedin.com/in/regy-niles](https://linkedin.com/in/regy-niles)
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=regyeduardo&show_icons=true&locale=pt-br&layout=compact&theme=merko&langs_count=6" alt="regyeduardo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=regyeduardo&show_icons=true&locale=pt-br&layout=compact&theme=merko&langs_count=6" alt="regyeduardo" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=regyeduardo&show_icons=true&theme=merko&locale=pt-br" alt="regyeduardo" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=regyeduardo&show_icons=true&theme=merko&locale=pt-br" alt="regyeduardo" />
 </div>
 
 <h3 align="left">Linguagens de Programaçâo:</h3>
