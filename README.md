@@ -8,7 +8,7 @@
 
 - 📫 Contate-me **regyeduardo@gmail.com**
 
-- 📄 Saiba minhas experiências [https://linkedin.com/in/regy-niles](https://linkedin.com/in/regy-niles)
+- 📄 Saiba minhas experiências [Entre no meu Linkedin](https://linkedin.com/in/regy-niles)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=regyeduardo&show_icons=true&locale=pt-br&layout=compact&theme=merko&langs_count=6" alt="regyeduardo" />
